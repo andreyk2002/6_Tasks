@@ -1,0 +1,47 @@
+name : 1984; pages count : 343; electronic : false; description : avaible in hard and soft covers; authors : George Orwell
+name : A tale of two cities; pages count : 420; electronic : false; description : published in UK(2010), in hard cover; authors : Charles Dickens
+name : And Then There Were None; pages count : 425; electronic : false; description : the best book of the best detective writer; authors : Agatha Christie
+name : Anna Karenina; pages count : 633; electronic : false; description : new edition (2019) ; authors : Leo Tolstoy
+name : Crime and Punishment; pages count : 389; electronic : false; description : publish year - 1998; authors : Fyodor Dostoyevsky
+name : Don Quixote; pages count : 673; electronic : false; description : publish year - 2009; authors : Miguel de Cervantes Saavedra
+name : Faust, First Part; pages count : 426; electronic : false; description : ; authors : Johann Wolfgang von Goethe
+name : Ficciones; pages count : 534; electronic : false; description : publish year - 2011, in hard cover; authors : Jorge Luis Borges
+name : Gargantua and Pantagruel; pages count : 523; electronic : false; description : ; authors : François Rabelais
+name : Great Expectations; pages count : 511; electronic : false; description : ; authors : Charles Dickens
+name : Gulliver's Travels; pages count : 401; electronic : false; description : Avaible in English, Russian and Belorussian languages; authors : Jonathan Swift
+name : Hamlet; pages count : 303; electronic : false; description : ; authors : William Shakespeare
+name : Harry Potter and the Philosopher's Stone; pages count : 353; electronic : false; description : The first book of about Harry Potter; authors : J. K. Rowling
+name : Jacques the Fatalist; pages count : 505; electronic : false; description : ; authors : Denis Diderot
+name : Journey to the End of the Night; pages count : 477; electronic : false; description : In hard cover; authors : Louis-Ferdinand Céline
+name : King Lear; pages count : 390; electronic : false; description : ; authors : William Shakespeare
+name : Lolita; pages count : 411; electronic : true; description : ; authors : Vladimir Nabokov
+name : Love in the Time of Cholera; pages count : 405; electronic : false; description : The book from nobel writer; authors : Gabriel García Márquez
+name : Madame Bovary; pages count : 501; electronic : false; description : ; authors : Gustave Flaubert
+name : Moby-Dick or, the Whale; pages count : 623; electronic : false; description : ; authors : Herman Melville
+name : Mrs. Dalloway; pages count : 432; electronic : false; description : publish year - 2016; authors : Virginia Woolf
+name : Oedipus Rex; pages count : 367; electronic : false; description : Great book from great greek philosopher; authors : Sophocles
+name : One Hundred Years of Solitude; pages count : 353; electronic : false; description : The most famouls books of nobel prizer G.G. Márquez; authors : Gabriel García Márquez
+name : Othello; pages count : 323; electronic : false; description : publish year - 2014; authors : William Shakespeare
+name : Pippi Longstocking; pages count : 283; electronic : false; description : ; authors : Astrid Lindgren
+name : Pride and Prejudice; pages count : 323; electronic : false; description : in hard cover; authors : Jane Austen
+name : Swann's Way; pages count : 443; electronic : false; description : ; authors : Marcel Proust
+name : The Book of Disquiet; pages count : 455; electronic : false; description : ; authors : Fernando Pessoa
+name : The Brothers Karamazov; pages count : 466; electronic : false; description : ; authors : Fyodor Dostoyevsky
+name : The Canterbury Tales; pages count : 501; electronic : false; description : ; authors : Geoffrey Chaucer
+name : The Complete Fairy Tales; pages count : 437; electronic : false; description : The collection of farytales from world-known Norwegian writer; authors : Hans Christian Andersen
+name : The Divine Comedy; pages count : 423; electronic : false; description : The most famous book of the Renaissance; authors : Dante Alighieri
+name : The Hobbit; pages count : 293; electronic : true; description : ; authors : J. R. R. Tolkien
+name : The Iliad; pages count : 401; electronic : true; description : ; authors : Homer
+name : The Little Prince; pages count : 96; electronic : false; description : approximate sales - 150 mln books; authors : Antoine de Saint-Exupéry
+name : The Man Without Qualities; pages count : 504; electronic : true; description : avaible in fb2, djvu and pdf formats; authors : Robert Musil
+name : The Odyssey; pages count : 299; electronic : false; description : One of the most famouls poems from Ancient Greece; authors : Homer
+name : The Old Man and the Sea; pages count : 423; electronic : false; description : Probably, the best book of legendary nobel writer E. Hemingway; authors : Ernest Hemingway
+name : The Sound and the Fury; pages count : 467; electronic : false; description : One of the most famouls books of nobel prizer W. Folkner; authors : William Folkner
+name : The Stranger; pages count : 302; electronic : true; description : ; authors : Albert Camus
+name : The Trial; pages count : 444; electronic : false; description : ; authors : Franz Kafka
+name : To the Lighthouse; pages count : 500; electronic : false; description : ; authors : Virginia Woolf
+name : Ulysses; pages count : 502; electronic : false; description : publish year - 2017; authors : James Joyce
+name : War and Peace I and II; pages count : 1003; electronic : false; description : The first and second parts of legendary work of L. Tolsoy; authors : Leo Tolstoy
+name : War and Peace III and IV; pages count : 1110; electronic : false; description : The third and fourth parts of "War and Peace"; authors : Leo Tolstoy
+name : When i died; pages count : 323; electronic : false; description : One of the most famouls books of nobel prizer W. Folkner; authors : William Folkner
+name : Zorba the Greek; pages count : 247; electronic : false; description : publish year - 2008; authors : Nikos Kazantzakis
