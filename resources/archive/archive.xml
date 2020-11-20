@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<archive>
+                                        
+    
+    
+    
+    
+    
+    
+    
+    
+    <case id="1">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <person>Igor Petrov</person>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <info>
+            Age : 43, gender : male, work place: Epam Company
+        </info>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </case>
+                                         
+    
+    
+    
+    
+    
+    
+    
+    
+    <case id="2">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <person>Ivan Ivanov</person>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <info>
+            Age : 19, gender : male, work place: university student
+        </info>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </case>
+                                         
+    
+    
+    
+    
+    
+    
+    
+    
+    <case id="3">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <person>Mary Vasylieva</person>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <info>testing repacing information by modifyCase()</info>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </case>
+                                         
+    
+    
+    
+    
+    
+    
+    
+    
+    <case id="4">
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <person>Viktor Petrovich</person>
+                                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        <info>
+            Age : 28, gender : male, work place: none
+        </info>
+                                                                            
+    
+    
+    
+    
+    
+    
+    
+    
+    </case>
+                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    <case id="5">
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <info>Information is very secret...</info>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <person>Mister X</person>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    </case>
+                                
+    
+    
+    
+    
+    
+    
+    
+    <case id="6">
+                                                                
+        
+        
+        
+        
+        
+        
+        <info>Information is very secret...</info>
+                                                                
+        
+        
+        
+        
+        
+        
+        <person>Mister X</person>
+                                                            
+    
+    
+    
+    
+    
+    
+    </case>
+                            
+    
+    
+    
+    
+    
+    
+    <case id="7">
+                                                        
+        
+        
+        
+        
+        
+        <info>gender : male, work place : football player</info>
+                                                        
+        
+        
+        
+        
+        
+        <person>Vasyl Borisov</person>
+                                                    
+    
+    
+    
+    
+    
+    </case>
+                        
+    
+    
+    
+    
+    
+    <case id="8">
+                                                
+        
+        
+        
+        
+        <info>gender : female, Age : 46</info>
+                                                
+        
+        
+        
+        
+        <person>Victoria Andreeva</person>
+                                            
+    
+    
+    
+    
+    </case>
+                    
+    
+    
+    
+    
+    <case id="9">
+                                        
+        
+        
+        
+        <info>gender : female, age : 19, student of Belarussian State University</info>
+                                        
+        
+        
+        
+        <person>Victoria Andreeva</person>
+                                    
+    
+    
+    
+    </case>
+                
+
+    
+    
+    <case id="10">
+                        
+        
+        <info>gender : female, Age : 46</info>
+                        
+        
+        <person>Victoria Andreeva</person>
+                    
+    
+    </case>
+        
+
+</archive>
